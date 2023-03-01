@@ -299,9 +299,10 @@ No events.
 
 
 
+## 5. 静态PV/PVC与动态PV/PVC
+ToDo
 
-
-## 5. 小结
+## 6. 小结
 
 <img src="D:\Home\17x\Projects\daily-notes\CloudNative\Kubernetes\assets\pv-pvc-sc.png" style="zoom:80%;" />
 
