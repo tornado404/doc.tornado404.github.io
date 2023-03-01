@@ -64,18 +64,11 @@ jobs:
           ls -al
           ls -al public
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v1.0.7
         with:
+          name: public
           path: ./public
 
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
