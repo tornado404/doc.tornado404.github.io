@@ -8,7 +8,7 @@ header_button_more:
   url: "#配置要求"
   title: "了解更多"
 
-teaser_image: "images/dragon2.jpg" # 请替换为游戏相关的预告图
+teaser_image: "images/output.gif" # 请替换为游戏相关的预告图
 ---
 
 幻梦飞龙
