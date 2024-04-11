@@ -41,11 +41,11 @@ teaser_image: "images/output.gif" # 请替换为游戏相关的预告图
 2. VR眼镜内配置（方式1）
    - 移除USB连接线，VR眼镜连接与PC同一局域网的WiFi
    - Quest设备点击**Quest Link**。![](images/oculus_2.png)
-   - 开启**Air Link**开关，**启动**。![](images/quest_link.jpg)![](images/quest_link2.jpg)
+   - 开启**Air Link**开关，**启动**。![link](images/quest_link.png)![启动](images/quest_link2.jpg)
    - 如果站立位置不对，则确认边界，可以设置边界为“原地”。
 
 3. Quest3眼镜内配置（方式2）
-   - 保持USB连接线，关闭VR眼镜中的**Air Link**，点击**启动**。![](images/quest_link_close.jpg)
+   - 保持USB连接线，关闭VR眼镜中的**Air Link**，点击**启动**。![关闭方式](images/quest_link_close.jpg)
    - 如果站立位置不对，则确认边界，可以设置边界为“原地”。
 
 # 游戏玩法
