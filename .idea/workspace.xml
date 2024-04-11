@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28973625-4563-4f62-9318-6c01cf1e54b6" name="更改" comment="new page">
+      <change afterPath="$PROJECT_DIR$/content/about/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-product-launch/layouts/about/single.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-product-launch/layouts/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-product-launch/layouts/partials/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-product-launch/layouts/partials/header/teaser_image.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-product-launch/layouts/partials/header/teaser_image.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/code/tornado404.github.io/static/images",
+    "last_opened_file_path": "D:/code/tornado404.github.io/content/about",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,11 +56,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\tornado404.github.io\content\about" />
       <recent name="D:\code\tornado404.github.io\static\images" />
       <recent name="D:\code\tornado404.github.io\assets\images" />
       <recent name="D:\code\tornado404.github.io\static" />
       <recent name="D:\code\tornado404.github.io\data" />
-      <recent name="D:\code\tornado404.github.io\content" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\code\tornado404.github.io\static\images" />
@@ -129,7 +133,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712821995856</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new page">
+      <option name="closed" value="true" />
+      <created>1712822694960</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712822694960</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new page">
+      <option name="closed" value="true" />
+      <created>1712822815674</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712822815674</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
