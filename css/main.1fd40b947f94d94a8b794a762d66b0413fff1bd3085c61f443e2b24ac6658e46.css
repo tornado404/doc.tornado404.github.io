@@ -405,8 +405,7 @@ button {
  *    https://github.com/jensimmons/cssremedy/issues/14#issuecomment-634934210
  */
 
-img,
-iframe {
+img {
   display: block; /* 1 */
   vertical-align: middle; /* 2 */
 }
