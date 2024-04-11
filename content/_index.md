@@ -8,7 +8,7 @@ header_button_more:
   url: "#配置要求"
   title: "了解更多"
 
-teaser_image: "images/dragon.gif" # 请替换为游戏相关的预告图
+teaser_image: "images/dragon2.jpg" # 请替换为游戏相关的预告图
 ---
 
 幻梦飞龙
@@ -55,6 +55,7 @@ teaser_image: "images/dragon.gif" # 请替换为游戏相关的预告图
 - 游戏结束：烟花秀结束之后，用户可以通过按下右手柄B键调出游戏结束界面。
 
 
+{{< bilibili BV19p421U7C5 >}}
 ---
 
  

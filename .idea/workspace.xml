@@ -5,395 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28973625-4563-4f62-9318-6c01cf1e54b6" name="更改" comment="new page">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tornado404.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tornado404.github.io.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nvmrc" beforeDir="false" afterPath="$PROJECT_DIR$/.nvmrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archetypes/default.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/_variables_project.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/about/featured-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/about/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/blog/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/blog/news/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/blog/news/first-post/featured-sunset-get.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/blog/news/first-post/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/blog/news/second-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/blog/releases/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/blog/releases/in-depth-monoliths-detailed-spec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/community/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/concepts/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/contribution-guidelines/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/examples/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/getting-started/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/getting-started/example-page.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/overview/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/reference/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/reference/parameter-reference.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/tasks/Ponycopters/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/tasks/Ponycopters/configuring-ponycopters.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/tasks/Ponycopters/launching-ponycopters.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/tasks/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/tasks/beds.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/tasks/porridge.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/tasks/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/tutorials/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/tutorials/multi-bear.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/docs/tutorials/tutorial2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/featured-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/search.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/fa/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/fa/about/featured-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/fa/about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/fa/blog/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/fa/blog/news/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/fa/blog/news/first-post/featured-sunset-get.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/fa/blog/news/first-post/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/fa/blog/releases/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/fa/community/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/fa/docs/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/fa/search.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/fileList.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/_index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/api-reference/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/api-reference/examples/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/api-reference/examples/in-depth-monoliths-detailed-spec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/api-reference/examples/the-inside-of-cryptography-detailed-spec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/api-reference/examples/the-inside-of-microservices-how-does-it-work.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/api-reference/examples/the-math-of-java-how-does-it-work.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/api-reference/examples/the-math-of-monographs-how-does-it-work.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/api-reference/the-inside-of-java-the-inner-workings.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/api-reference/the-math-of-monoliths-detailed-spec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/big-data/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/big-data/examples/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/big-data/examples/the-math-of-monographs-how-does-it-work.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/big-data/the-math-of-monographs-how-does-it-work.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/big-data/tutorials/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/big-data/tutorials/in-depth-go-the-inner-workings.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/big-data/tutorials/the-inside-of-cryptography-how-does-it-work.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/big-data/tutorials/the-inside-of-java-detailed-spec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/big-data/tutorials/the-inside-of-microservices-detailed-spec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/big-data/tutorials/the-math-of-cryptography-the-inner-workings.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cloud-computing/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cloud-computing/examples/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cloud-computing/examples/in-depth-cryptography-the-core-concepts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cloud-computing/examples/in-depth-go-how-does-it-work.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cloud-computing/examples/the-inside-of-monoliths-how-does-it-work.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cloud-computing/in-depth-go-detailed-spec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cloud-computing/in-depth-monoliths-detailed-spec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cloud-computing/the-inside-of-java-how-does-it-work.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cloud-computing/tutorials/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cloud-computing/tutorials/in-depth-monographs-the-inner-workings.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cloud-computing/tutorials/the-inside-of-go-the-inner-workings.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cloud-computing/tutorials/the-inside-of-microservices-detailed-spec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cloud-computing/tutorials/the-math-of-java-the-inner-workings.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cloud-computing/tutorials/the-math-of-microservices-detailed-spec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cloud-computing/tutorials/the-math-of-monographs-detailed-spec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cloud-computing/tutorials/the-math-of-monoliths-the-inner-workings.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/content-management/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/content-management/the-inside-of-cryptography-how-does-it-work.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/content-management/the-inside-of-monographs-the-core-concepts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/content-management/the-math-of-microservices-how-does-it-work.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/content-management/the-math-of-monoliths-the-inner-workings.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/content-management/tutorials/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/content-management/tutorials/in-depth-microservices-the-core-concepts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/content-management/tutorials/the-inside-of-cryptography-the-core-concepts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/content-management/tutorials/the-inside-of-microservices-the-core-concepts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/content-management/tutorials/the-inside-of-recursion-the-inner-workings.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cross-platform/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cross-platform/examples/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cross-platform/examples/in-depth-java-detailed-spec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cross-platform/examples/the-inside-of-java-the-core-concepts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cross-platform/examples/the-math-of-go-the-inner-workings.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cross-platform/examples/the-math-of-recursion-the-inner-workings.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cross-platform/in-depth-cryptography-detailed-spec.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cross-platform/the-inside-of-monographs-how-does-it-work.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cross-platform/the-inside-of-monoliths-the-core-concepts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cross-platform/the-inside-of-recursion-how-does-it-work.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cross-platform/tutorials/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/docs/cross-platform/tutorials/the-math-of-cryptography-how-does-it-work.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/no/search.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/android/01-email-sender.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/android/02-view-click-event.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/blog/01-github-action-deploy-hugo.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/blog/hexo/01-setup.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/blog/hexo/02-config.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/blog/hexo/03-deploy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/blog/hexo/04-transfer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/blog/hexo/05-compress-statstic.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/blog/hugo/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/cloudnative/01-metallb.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/cloudnative/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/distributed/raft.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/distributed/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/docker/01-what-is-docker.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/docker/02-install.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/docker/03-container-core.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/docker/04-container-network.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/docker/05-namespace.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/docker/06-cgroups-1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/docker/07-cgroups-2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/docker/08-cgroups-3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/docker/09-ufs-overlayfs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/docker/10-bridge-network.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/docker/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/elasticsearch/01-deploy-cluster.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/elasticsearch/01-install-by-docker.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/elasticsearch/02-elk-deploy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/elasticsearch/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/00-etcd-faq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/01-install.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/02-v3-getting-started.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/03-v3-analyze.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/04-etcd-architecture.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/05-watch.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/06-why-mvcc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/07-read-process.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/08-write-process.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/09-raft.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/10-lease.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/11-txn.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/12-mvcc-analyze.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/13-watch-analyze -1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/14-watch-analyze -2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/15-raft-leader-election.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/etcd/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/git/01-git-ssh-key-set.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/git/02-git-use-guide.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/git/04-git-reduce.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/git/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/go-micro/00-go-micro简介.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/go-micro/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/go/01-chan.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/go/chan.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/go/cond.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/go/configmap+viper实现配置文件热更新.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/go/context.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/go/exex-cmd-timeout.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/go/gotest.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/go/pprof.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/go/singleflight.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/go/swagger.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/go/sync-mutex.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/go/sync-pool.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/go/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/grpc/00-faq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/grpc/01-protobuf.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/grpc/02-hello-world.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/grpc/03-stream.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/grpc/04-encryption-tls.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/grpc/05-Interceptor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/grpc/06-auth.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/grpc/07-grpc-gateway.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/grpc/08-ctx-cancel-deadline.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/grpc/09-retry.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/grpc/10-benchmark.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/grpc/11-name-resolver.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/grpc/12-client-side-loadbalance.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/grpc/13-loadbalance-on-k8s.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/grpc/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/01-java-string.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/02-mvc-ssm-merge.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/03-java-innerclass-localvariable.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/04-java-innerclass-outerclass-membervariable.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/05-java-sorts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/06-two-volatile-synchronized.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/07-jvm-runtime-area.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/08-reentrantlock.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/design-pattern/01-singleton.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/design-pattern/01ex1-java-enum-singleton.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/design-pattern/01ex2-java-volatile-double-check-lock.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/design-pattern/02--factory.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/design-pattern/03--builder.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/design-pattern/04-adapter.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/design-pattern/05-decorator.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/design-pattern/06-proxy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/design-pattern/07-facade.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/design-pattern/08-strategy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/design-pattern/09-template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/design-pattern/10-observer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/ssm/01-spring-ioc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/ssm/02-spring-annotation.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/ssm/03-beanfactory-applicationcontext-diff.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/ssm/04-springmvc-process.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/java/ssm/05-mybatis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kafka/01-install.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kafka/02-hello-kafka.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kafka/03-kafka-introduction.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kafka/04-kafka-product-install-config.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kafka/05-quick-start.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kafka/06-sarama-producer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kafka/07-partition.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kafka/08-compression.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kafka/09-avoid-msg-lost.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kafka/10-exactly-once-impl.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kafka/11-consumer-group-rebalance.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kafka/12-hw-leader-epoch.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kafka/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/01-install.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/02-cluster-network.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/03-pure-layer-3-network.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/04-service-core.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/05-service-access.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/06-projected-volume-configmap-secret.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/07-pod-1-why.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/07-pod-2-base&amp;lifecycle.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/08-deployment.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/09-volume.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/10-pv-pvc-storageclass.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/11-install-by-kubeclipper.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/12-vpa.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/13-hpa.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/14-pv-dynamic-provision-process.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/15-kind-kubernetes-in-docker.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/linux/01-install-centos.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/linux/02-conf-network.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/linux/03-install-jdk-tomcat.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/linux/04-install-mysql.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/linux/05-install-rabbitmq.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/linux/06-io-model.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/linux/07-ssh-tunnel.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/linux/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/markdown/markdown-skills.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/mongodb/01-install-by-docker.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/mongodb/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/mysql/01-install-by-docker.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/mysql/01-master-slave.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/mysql/02-join-detail.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/mysql/03-join-diff.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/mysql/04-cap-lock.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/mysql/05-data-type.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/mysql/06-join-process.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/mysql/07-binlog-redolog-undolog.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/mysql/08-mvcc-undolog.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/mysql/09-join.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/mysql/10-acid.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/mysql/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/network/01-network-model.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/network/02-tcp-connection.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/network/03-tcp-reliability.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/network/04-http-https.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/network/05-connection-process.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/network/06-http-flow.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/nginx/01-install.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/nginx/02-conf.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/nginx/03-log.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/nginx/04-proxy-upstream.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/nginx/05-accesslog-analysis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/nginx/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/protobuf/01-import.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/protobuf/02-encode-core.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/protobuf/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/redis/01-install.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/redis/02-common-cmd.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/redis/03-advanced-datastructure.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/redis/04-global-datastructure.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/redis/05-basic-datastructure-implement.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/redis/05-underlying-datastructure.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/redis/db-connection-pool-settings.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/redis/five-cluster.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/redis/redis-scan.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/redis/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/tekton/00-special-usage-share.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/tekton/01-deploy-tekton.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/tekton/02-tekton-task-pipeline.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/tekton/03-tekton-trigger.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/tekton/04-tekton-workspace.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/tekton/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/tracing/01-opentracing.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/tracing/02-framework-compare.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/tracing/03-jaeger-quick-start.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/tracing/04-jaeger-gin-grpc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/tracing/05-jaeger-deploy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/tracing/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/web/template.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/web/设备追踪之Canvas指纹.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/草稿/springboot/01-SpringBoot简介.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/草稿/springboot/02-SpringBoot整合Thymeleaf.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/草稿/springboot/03-SpringBoot整合Mybatis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/草稿/springboot/04-SpringBoot项目打包运行-.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/草稿/springcloud/01-统一依赖管理 Dependencies.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/草稿/springcloud/02-服务注册与发现 Eureka.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/草稿/springcloud/03-服务提供者 Provider.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/草稿/springcloud/04-服务消费者 Consumer.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/草稿/springcloud/05-服务熔断 Hystrix.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/草稿/springcloud/06-路由网关统一访问接口 Zuul.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/草稿/springcloud/07-分布式配置中心 Spring Cloud Config.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/草稿/springcloud/08-链路追踪 ZipKin.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/草稿/springcloud/09-服务监控 Spring Boot Admin.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/草稿/zookeeper/one-install.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/草稿/zookeeper/three-watch-distributed-lock.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/草稿/zookeeper/two-api-auth.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy/Caddyfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy/caddyd.service" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy/submodule.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docsy.work" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docsy.work.sum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/_default/_markup/render-heading.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/netlify.toml" beforeDir="false" afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ads.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/blog/github-action-detail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/blog/github-actions.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/blog/github-secret-config.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/go/lib/go_exec_process.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/jinx.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/kubernetes/csi/kube_csi_attach_pv.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/kubernetes/csi/kube_csi_create_pv.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/kubernetes/csi/kube_csi_mount_pv.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/kubernetes/kubeclipper/kc-console-login.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/kubernetes/network/flannel/flannel-udp-tun.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/kubernetes/network/flannel/flannel-udp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/kubernetes/network/flannel/flannel-vxlan-inner-data-frame.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/kubernetes/network/flannel/flannel-vxlan-outer-data-frame.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/kubernetes/network/flannel/flannel-vxlan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/kubernetes/network/layer3/k8s-network-bgp.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/kubernetes/network/layer3/k8s-network-calico-ipip-wrap.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/kubernetes/network/layer3/k8s-network-calico-ipip.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/kubernetes/network/layer3/k8s-network-pure-layer3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/kubernetes/vpa/vpa-architecture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/kubernetes/vpa/vpa-process.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/linux/ssh/ssh-forward-issue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/linux/ssh/ssh-local-forward.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/linux/ssh/ssh-tunnel-corss-fw.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/tekton/deploy/tekton-dashboard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/tekton/trigger/TriggerFlow.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/LoveIt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/dragon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-product-launch/layouts/shortcodes/bilibili.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/css/main.css_ad9a12809e06de71aca16e9138fbecf4.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/css/main.css_ad9a12809e06de71aca16e9138fbecf4.content" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -412,10 +40,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/code/tornado404.github.io/static/images",
+    "last_opened_file_path": "D:/code/tornado404.github.io/assets/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -426,8 +55,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\code\tornado404.github.io\static\images" />
       <recent name="D:\code\tornado404.github.io\assets\images" />
+      <recent name="D:\code\tornado404.github.io\static\images" />
       <recent name="D:\code\tornado404.github.io\static" />
       <recent name="D:\code\tornado404.github.io\data" />
       <recent name="D:\code\tornado404.github.io\content" />
@@ -462,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712818222692</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new page">
+      <option name="closed" value="true" />
+      <created>1712818799798</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712818799798</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
