@@ -5,7 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28973625-4563-4f62-9318-6c01cf1e54b6" name="更改" comment="new page">
-      <change afterPath="$PROJECT_DIR$/assets/images/output.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/output.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/output.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/angle-down-select.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/arrow-down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/backgrounds/cta-background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/backgrounds/hero-background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/blog-details-image-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/blog-details-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/blog-post-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/blog-post-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/blog-post-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/blog-post-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client-logo-eight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client-logo-five.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client-logo-four.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client-logo-nine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client-logo-one.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client-logo-seven.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client-logo-six.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client-logo-ten.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client-logo-three.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client-logo-two.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/project-details-image-one.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/project-details-image-two.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/project-thumb-four.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/project-thumb-one.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/project-thumb-three.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/projects/project-thumb-two.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prototype.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/share-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/team/team-member-five.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/team/team-member-four.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/team/team-member-one.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/team/team-member-six.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/team/team-member-three.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/team/team-member-two.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/teaser.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/testimonial/user-thumb-five.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/testimonial/user-thumb-four.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/testimonial/user-thumb-one.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/testimonial/user-thumb-six.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/testimonial/user-thumb-three.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/testimonial/user-thumb-two.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/to-top.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712820525455</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new page">
+      <option name="closed" value="true" />
+      <created>1712820899647</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712820899647</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
