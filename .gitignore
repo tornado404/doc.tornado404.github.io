@@ -1,4 +1,4 @@
-public
-exampleSite/public
-node_modules
-*.zip
+.idea
+/public/
+/resources
+.hugo_build.lock
