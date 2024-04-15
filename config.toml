@@ -1,6 +1,5 @@
-baseurl = "https://devcows.github.io/hugo-universal-theme/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-baseURL = "https://example.com"
-
+baseURL = "https://daozi.art"
+port = 8080
 title = "幻梦飞龙"
 theme = "hugo-product-launch"
 
@@ -40,8 +39,13 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
         [markup.goldmark.renderer]
             hardWraps = true
 
+
 [params]
-    # A "copyright"-line to be added at the bottom of the page.
+   [params.logo]
+    main = "images/logo.png"
+    alt = "Daozi Logo"
+    size = "w-42 h-14"
+   # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
     copyright = "© Builders Of The Future, Inc."
 
@@ -51,6 +55,10 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
     favicon = "images/favicon.png"
+
+    showBlog = true
+    mainSections = ['blog']
+    googleFonts = true
 
     # These "images" are used for the structured data templates. This will show up, when
     # services like Twitter or Slack want to generate a preview of a link to your site.
@@ -74,3 +82,37 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
 
     [params.meta]
         keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "首页"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "download"
+    name = "下载"
+    url = "/download/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about"
+    weight = 3
+
+
+  # Footer Menu
+  [[menu.footer]]
+    name = "Home"
+    url = "/"
+      weight = 1
+
+  [[menu.footer]]
+    name = "Github"
+    url = "https://github.com/opera7133/tella"
+    pre = "<i class='icon-github text-2xl'></i>"
+      weight = 2
