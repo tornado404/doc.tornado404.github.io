@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.a-section {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+}
+.a1, .a2 {
+    flex: 1;
+}
+.a1 {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+     width: 50%; /* 调整宽度为原来的一半 */
+    height: 50%; /* 调整高度为原来的一半 */
+}
+.a2 {
+    padding: 20px;
+}
+.b-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+}
+.b1, .b2 {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.b2 {
+    margin-top: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+}
